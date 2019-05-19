@@ -1,0 +1,75 @@
+######################
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+
+######################
+
+# Visual Studio Code
+.vscode/
+
+######################
+
+# Maven
+/log/
+/target
+/target/
+.m2/
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+
+# Windows
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+
+# Mac OSX
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+
+# Directories
+
+/bin/
+/deploy/
+
+######################
+# Logs
+
+*.log*
+
+######################
+
+# Others
+
+*.class
+*.*~
+*~
+.merge_file*
+!.mvn/wrapper/maven-wrapper.jar
+mvn

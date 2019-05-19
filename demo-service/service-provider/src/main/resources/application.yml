@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: dev
+  messages:
+    encoding: UTF-8
+    basename: i18n/messages
