@@ -13,7 +13,7 @@
 
     <properties>
         <poi.version>3.9</poi.version>
-        <spring.version>5.0.11.RELEASE</spring.version>
+        <spring.version>5.2.3.RELEASE</spring.version>
         <javax.servlet.version>4.0.1</javax.servlet.version>
         <spring.data.version>2.0.9.RELEASE</spring.data.version>
     </properties>
